@@ -1,0 +1,12 @@
+# Local configuration overrides
+backend/config/config.local.php
+.env
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
